@@ -1,4 +1,4 @@
-👋 Hi, I’m @JustynaPanekk, a Junior Quality Assurance professional with a passion for ensuring software reliability and user satisfaction.
+👋 Hi, I’m @JustynaPanekk, a Junior Quality Assurance with a passion for ensuring software reliability and user satisfaction.
 
 👀 I’m interested in exploring innovative testing methodologies and tools to enhance the quality of software applications.
 
